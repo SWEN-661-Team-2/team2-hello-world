@@ -55,7 +55,7 @@ Expected output will include:
 
 ## Team Members
 - James Stevens
-- (Each Team Member adds their name here.)
+- Corey Bayliss
 - (Each Team Member adds their name here.)
 - (Each Team Member adds their name here.)
 
