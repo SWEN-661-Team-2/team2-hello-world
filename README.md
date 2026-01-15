@@ -55,7 +55,7 @@ Expected output will include:
 
 ## Team Members
 - Corey Bayliss
-- (Each Team Member adds their name here.)
+- James Stevens
 - (Each Team Member adds their name here.)
 
 ## Repository Contents
