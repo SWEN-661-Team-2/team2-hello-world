@@ -54,7 +54,6 @@ Expected output will include:
 5. Push changes: git push
 
 ## Team Members
-- James Stevens
 - Corey Bayliss
 - (Each Team Member adds their name here.)
 - (Each Team Member adds their name here.)
