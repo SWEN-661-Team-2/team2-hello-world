@@ -50,7 +50,7 @@ Expected output will include:
 1. Pull latest changes: git pull
 2. Make updates in VS Code
 3. Stage changes: git add .
-4. Commit with a descriptive message: git commit -m "<summary>"
+4. Commit with a descriptive message: git commit -m <summary>
 5. Push changes: git push
 
 ## Team Members
